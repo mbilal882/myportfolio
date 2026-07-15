@@ -694,6 +694,8 @@ a:hover {
 
 .about-mf .about-img {
     margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
 }
 
 .about-mf .about-img img {
